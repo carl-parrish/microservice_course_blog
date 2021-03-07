@@ -1,2 +1,2 @@
 # gitpod-frontend-template
-Template for creating a gitpod workspace for frontend projects. 
+Template for creating a gitpod workspace for react projects. 
